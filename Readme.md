@@ -12,7 +12,7 @@ Examples
 qdbdpqpbqpqpbdqpbpbqdpdqpqbdpdqdbpbqbpdbpqdpb
 ```
 
-Contains about 64 bits of information. Another idetifier produces a completely different output:
+Contains about 64 bits of information. Another identifier produces a completely different output:
 
 ```
 qdbqdbqpdpdbqbqpbqdbpqpdqbpqdbpdqdpqdpbqbdbpb
@@ -64,5 +64,5 @@ Links
 * [Source code](https://github.com/Kleshni/QDPB/archive/master.zip).
 * [Git repository](https://github.com/Kleshni/QDPB.git).
 * [Issue tracker](https://github.com/Kleshni/QDPB/issues).
-* Bitmessage: BM-FHMGLusCyAEjonpwAYdxzfcyBszP.
+* Bitmessage: BM-2cT5WWccBgLsHTw5ADLcodTz4dbqdtrwrQ.
 * Mail: [kleshni@protonmail.ch](mailto:kleshni@protonmail.ch).
